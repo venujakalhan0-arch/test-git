@@ -1,2 +1,2 @@
 Hello, world!
-Have a great day!
+Welcome to the Github
